@@ -13,7 +13,7 @@ const Header = () =>  (
   </Div1>
   <Div2>
     <li>
-      <Link href="#Project">
+      <Link href="/Project">
       <NavLink>Project</NavLink>
       </Link>
     </li>
@@ -23,7 +23,7 @@ const Header = () =>  (
       </Link>
     </li>
     <li>
-      <Link href="#about" >
+      <Link href="/src/components/Footer/Footer.js" >
       <NavLink>About</NavLink>
       </Link>
     </li>
