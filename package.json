@@ -14,5 +14,8 @@
     "react-icons": "^4.2.0",
     "styled-components": "^5.3.5",
     "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0"
   }
 }

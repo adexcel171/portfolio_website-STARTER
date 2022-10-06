@@ -12,7 +12,7 @@ const Hero = (props) => (
  Portfolio
   </SectionTitle>
   <SectionText>
-    give you the best website 
+    give you the best Next .js website 
   </SectionText>
 
 <Button onClick={() => window.location ='https://google.com' }>Learn More</Button>

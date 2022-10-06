@@ -1,13 +1,15 @@
 import styled from 'styled-components';
 
 export const image = styled.image`
-  width:500px;
+  width: 80px;
 
+  object-fit:contain;
+  height:5px;
 `;
 
 export const GridContainer = styled.section`
 display: grid;
-grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 padding: 3rem;
 place-items: center;
 column-gap: 2rem;
@@ -16,7 +18,7 @@ row-gap: 3rem;
   display: flex;
   flex-direction: column;
   padding: 2rem;
-  padding-bottom: 0;
+  padding-bottom: 3;
 }
 
 `
@@ -107,4 +109,4 @@ padding: 2rem;
 export const Tag = styled.li`
 color: #d8bfbf;
 font-size: 1.5rem;
-`
+`;

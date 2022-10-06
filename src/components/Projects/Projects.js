@@ -20,8 +20,8 @@ const Projects = () => (
 
 <UtilityList>
 
-<ExternalLinks href='' >code</ExternalLinks>
-<ExternalLinks href='https://github.com/adexcel171/e-commerce-.git' >Source</ExternalLinks>
+<ExternalLinks href='https://github.com/adexcel171' >code</ExternalLinks>
+<ExternalLinks href='https://github.com/adexcel171' >Source</ExternalLinks>
 
 </UtilityList>
    </BlogCard> 
