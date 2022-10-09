@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 export const image = styled.image`
   width: 80px;
-
   object-fit:contain;
   height:5px;
 `;

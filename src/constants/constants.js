@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'Portfolio Wesites',
     description: "Using Html, Css and Javascript,- from start to finish. i will build you a perfect portfolio website that will take your business and individul brand to the next level of authenticity.",
-      image: '/images/projects.js',
+      // image: '/images/01.jpg',
       tags: ['HTML', 'Css', 'Javascript', 'React', 'Next.js'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -13,7 +13,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"build you a great E commerce site for your business , clients can place orders and pay on the website without any stress. just be ready for delivery when you recieve and order . And trust me, e-commerce applications are impressive.",
-    image: '/images/s.jpg',
+    // image: '/images/s.jpg',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/adexcel171/e-commerce-.git',
     visit: 'https://google.com',
