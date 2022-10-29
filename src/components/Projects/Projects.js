@@ -11,7 +11,7 @@ const Projects = () => (
   <GridContainer>
 {projects.map((project) => (
    <BlogCard key={project.id}>
-<img src={project.image} />
+{/* <img src={project.image} /> */}
 <TitleContent>
   <HeaderThree title>{project.title}</HeaderThree>
   <Hr />
@@ -20,7 +20,7 @@ const Projects = () => (
 
 <UtilityList>
 
-<ExternalLinks href='https://github.com/adexcel171' >code</ExternalLinks>
+{/* <ExternalLinks href='https://github.com/adexcel171' >code</ExternalLinks> */}
 <ExternalLinks href='https://github.com/adexcel171' >Source</ExternalLinks>
 
 </UtilityList>
